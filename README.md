@@ -102,7 +102,7 @@ One shared Odoo system where each employee has their own login and sees only the
 
 **7. Clean 3-way match (ordered 10, received 10, billed 10)**
 
-![7. Clean 3-way match (ordered 10, received 10, billed 10)](screenshots/project1-07-paint-3way-match.png)
+![7. Clean 3-way match](screenshots/project1-07-paint-3way-match.png)
 
 **8. Sale completed**
 
