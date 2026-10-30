@@ -76,20 +76,53 @@ One shared Odoo system where each employee has their own login and sees only the
 
 ## Screenshots
 
-| Step | File |
-|---|---|
-| Large order waiting for approval | `screenshots/project1-01-po-to-approve.png` |
-| Manager approves the order | `screenshots/project1-02-po-approved.png` |
-| Storekeeper validates the receipt | `screenshots/project1-03-receipt-validated.png` |
-| Bill paid | `screenshots/project1-04-bill-paid.png` |
-| Paint order confirmed | `screenshots/project1-05-paint-po-confirmed.png` |
-| Paint receipt validated | `screenshots/project1-06-paint-receipt-validated.png` |
-| Clean 3-way match | `screenshots/project1-07-paint-3way-match.png` |
-| Sale completed | `screenshots/project1-08-sale-done.png` |
-| Backorder created | `screenshots/project1-09-backorder.png` |
-| Stock report | `screenshots/project1-10-stock-report.png` |
-| Purchase report | `screenshots/project1-11-purchase-report.png` |
-| Sales report | `screenshots/project1-12-sales-report.png` |
+**1. Large order waiting for approval**
+
+![1. Large order waiting for approval](screenshots/project1-01-po-to-approve.png)
+
+**2. Manager approves the order**
+
+![2. Manager approves the order](screenshots/project1-02-po-approved.png)
+
+**3. Storekeeper validates the receipt**
+
+![3. Storekeeper validates the receipt](screenshots/project1-03-receipt-validated.png)
+
+**4. Bill paid**
+
+![4. Bill paid](screenshots/project1-04-bill-paid.png)
+
+**5. Paint order confirmed**
+
+![5. Paint order confirmed](screenshots/project1-05-paint-po-confirmed.png)
+
+**6. Paint receipt validated**
+
+![6. Paint receipt validated](screenshots/project1-06-paint-receipt-validated.png)
+
+**7. Clean 3-way match (ordered 10, received 10, billed 10)**
+
+![7. Clean 3-way match (ordered 10, received 10, billed 10)](screenshots/project1-07-paint-3way-match.png)
+
+**8. Sale completed**
+
+![8. Sale completed](screenshots/project1-08-sale-done.png)
+
+**9. Backorder created**
+
+![9. Backorder created](screenshots/project1-09-backorder.png)
+
+**10. Stock report**
+
+![10. Stock report](screenshots/project1-10-stock-report.png)
+
+**11. Purchases by vendor report**
+
+![11. Purchases by vendor report](screenshots/project1-11-purchase-report.png)
+
+**12. Sales by customer report**
+
+![12. Sales by customer report](screenshots/project1-12-sales-report.png)
 
 ## Tools
 
