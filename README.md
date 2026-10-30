@@ -78,7 +78,7 @@ One shared Odoo system where each employee has their own login and sees only the
 
 **1. Large order waiting for approval**
 
-![1. Large order waiting for approval](odoo-erp-project/project1-01-purchase-order.png)
+![1. Large order waiting for approval](odoo-erp-project/1-purchase-order.png)
 
 **2. Manager approves the order**
 
